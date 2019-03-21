@@ -1,0 +1,8 @@
+{
+  "name": "chrome-runtime-connect",
+  "version": "0.0.1",
+  "files": [ "runtime.js", "register.js" ],
+  "main": "runtime.js",
+  "license": "MIT",
+  "author": "Damien Rajon <pyrhockz@gmail.com> (https://25.wf)"
+}
